@@ -4,6 +4,7 @@
     background-color: blueviolet;
     border-radius: 10px;
     font-size: xx-large;
+    padding:10px;
     
 }
 body{
@@ -11,8 +12,8 @@ body{
     
 }
 .Conteudo{
-    width: 525px;
-    height: 300px;
+    width: 900px;
+    height: 150px;
     background-color: blueviolet;
     border-radius: 10px;
     text-align:justify
